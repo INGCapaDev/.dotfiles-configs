@@ -6,3 +6,7 @@ My config files and scripts
 
 `New-Item -ItemType SymbolicLink -Path "target path (computer files)" -Value "repo path (this repo file)"
 `
+
+- Run .bat script in powershell
+  
+`Invoke-Expression -Command .\script.bat`
