@@ -106,13 +106,6 @@ function SSH-Keys {
 }
 
 function Ask-To-Add-SSH-Keys {
-    $envVarName = "AskedToAddSSHKeys"
-    $global:AskedToAddSSHKeys = [Environment]::GetEnvironmentVariable($envVarName, [EnvironmentVariableTarget]::User)
-
-    if ($global:AskedToAddSSHKeys -eq "True") {
-        return  
-    }
-    
     Write-Host "`nDo you want to add your SSH keys?" -NoNewLine -ForegroundColor Blue
     Write-Host " (Y) " -NoNewLine -ForegroundColor Green
     Write-Host "[Press any key to skip] : " -NoNewLine -ForegroundColor Red
@@ -122,7 +115,6 @@ function Ask-To-Add-SSH-Keys {
             $key = [System.Console]::ReadKey($true).Key
             if ($key -eq [System.ConsoleKey]::Y) {
                 SSH-Keys
-                [Environment]::SetEnvironmentVariable($envVarName, "True", [EnvironmentVariableTarget]::User)
             } 
             Write-Host ""
             break
@@ -214,16 +206,17 @@ Set-Alias -Name gls -Value git_ls
 Set-Alias -Name gll -Value git_ll
 Set-Alias -Name gpl -Value git_pull
 Set-Alias -Name gsw -Value git_switch 
+Set-Alias -Name sshk -Value SSH-Keys
 
 # -----------------------------------------
 # Modules
 # -----------------------------------------
 Import-Module -Name Terminal-Icons
+Set-PSReadLineKeyHandler -Key Tab -Function MenuComplete
+Set-PSReadLineOption -PredictionViewStyle ListView
 
 # -----------------------------------------
 # Prompt
 # -----------------------------------------
-
-Ask-To-Add-SSH-Keys
 print_custom_banner
 

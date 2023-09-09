@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7cccff2708c4491b",
+        "id": "728df9d7b6958c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "3e32b92f58c65d23",
+            "id": "1b8b14ab66adee4b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "832e36e43a9805dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md",
+                "file": "✏️ Input/💡 Raw data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md",
+                "file": "✏️ Input/💡 Raw data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md",
+                "file": "✏️ Input/💡 Raw data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,20 +123,12 @@
             }
           },
           {
-            "id": "fc1bca94de3d3957",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "513cc62fdc27138c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md"
+                "file": "✏️ Input/💡 Raw data.md"
               }
             }
           }
@@ -145,25 +148,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e32b92f58c65d23",
+  "active": "832e36e43a9805dc",
   "lastOpenFiles": [
+    "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c/Untitled 1.png.md",
+    "✏️ Input/💡 Raw data.md",
+    "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c",
+    "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
+    "001 ☕Courses/❌ Pending/✍️ React Performance.md",
+    "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
+    "997 ❓Help/💻 My PC Setup.md",
     "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
     "⌨️ Projects/📖 Thesis/Introduccion.md",
     "⌨️ Projects/📖 Thesis/Titulo.md",
     "⌨️ Projects/⚡Voltz/Voltz reunion con luciano.md",
     "⌨️ Projects/⚡Voltz/Slack.md",
-    "✏️ Input/💡 Raw data.md",
     "997 ❓Help/📄 Attachments/Pasted image 20230907200809.png",
     "997 ❓Help/📄 Attachments/Pasted image 20230907201557.png",
     "997 ❓Help/💡 Callouts.md",
-    "997 ❓Help/💻 My PC Setup.md",
     "997 ❓Help/📄 Attachments",
     "✏️ Input/06-09-2023 Meeting.md",
-    "998 🗃️ Archive/💞 Carta Amorcito.md",
+    "999 🗃️ Archive/💞 Carta Amorcito.md",
     "⌨️ Projects/📖 Thesis",
-    "998 🗃️ Archive/🤖 Packet Tracer/Access-list Extended.md",
+    "999 🗃️ Archive/🤖 Packet Tracer/Access-list Extended.md",
     "000 🗒️Notes/💻 Development/⌨️ Web Development/Typescript.md",
-    "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
     "000 🗒️Notes/💡 Productivity/BASB 101 The Campsite Rule For Your Notes.md",
     "⌨️ Projects/⚡Voltz",
     "⌨️ Projects",
@@ -178,16 +185,12 @@
     "006 🧠 Tutorials and Guides/How to configure Vite for React Project.md",
     "006 🧠 Tutorials and Guides/How to create a Webpack & Tailwind Project.md",
     "006 🧠 Tutorials and Guides/How to Setup React and Tailwind CSS with Vite.md",
-    "006 🧠 Tutorials and Guides/Oh My Posh.md",
-    "006 🧠 Tutorials and Guides/Install Tailwind Auto-Sort-Classes.md",
-    "005 💡Resources/🎮 Entertainment/🔖Zoro Tv.md",
     "999 Config.zip",
     "997 🎨 Excalidraw",
     "997 ❓Help/📄 Attachments/Pasted image 20230819122936.png",
     "997 ❓Help",
     "998 🗃️ Archive/🎨 CSS/FTACapa.png",
     "998 🗃️ Archive/🎨 CSS",
-    "999 ⚙️ Config/themes/Tokyo Night/theme.css",
     "Untitled 30.png",
     "Untitled 28.png",
     "Untitled 20.png",
