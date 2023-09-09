@@ -99,10 +99,9 @@ function print_custom_banner {
 }
 
 function SSH-Keys {
-    Start-Service ssh-agent
     Write-Host "`n`nWelcome INGCapaDEV! Please enter your SSH keys.`n" -ForegroundColor Yellow
     Write-Host "Github (INGCapaDEV) [Press enter to skip]" -ForegroundColor Blue
-    ssh-add.exe "$env:USERPROFILE\.ssh\id_rsa"
+    ssh-add "$env:USERPROFILE\.ssh\id_rsa"
     Write-Host ""
 }
 
