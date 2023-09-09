@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "a2f8f0b84cc00c9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cccff2708c4491b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e32b92f58c65d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "997 ❓Help/💻 My PC Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ba3abb4c3850485",
+    "type": "split",
+    "children": [
+      {
+        "id": "184101d9de3a1d10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1689f80eba2d87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "035306a82f767447",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#In_Progress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d3b1c538cf77bced",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf0ddb02cf691a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551ade85347cc4db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "997 ❓Help/💻 My PC Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76609d95b86ebdf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "997 ❓Help/💻 My PC Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eaed9e11d6349c6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "fc1bca94de3d3957",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "513cc62fdc27138c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "997 ❓Help/💻 My PC Setup.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3e32b92f58c65d23",
+  "lastOpenFiles": [
+    "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
+    "⌨️ Projects/📖 Thesis/Introduccion.md",
+    "⌨️ Projects/📖 Thesis/Titulo.md",
+    "⌨️ Projects/⚡Voltz/Voltz reunion con luciano.md",
+    "⌨️ Projects/⚡Voltz/Slack.md",
+    "✏️ Input/💡 Raw data.md",
+    "997 ❓Help/📄 Attachments/Pasted image 20230907200809.png",
+    "997 ❓Help/📄 Attachments/Pasted image 20230907201557.png",
+    "997 ❓Help/💡 Callouts.md",
+    "997 ❓Help/💻 My PC Setup.md",
+    "997 ❓Help/📄 Attachments",
+    "✏️ Input/06-09-2023 Meeting.md",
+    "998 🗃️ Archive/💞 Carta Amorcito.md",
+    "⌨️ Projects/📖 Thesis",
+    "998 🗃️ Archive/🤖 Packet Tracer/Access-list Extended.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/Typescript.md",
+    "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
+    "000 🗒️Notes/💡 Productivity/BASB 101 The Campsite Rule For Your Notes.md",
+    "⌨️ Projects/⚡Voltz",
+    "⌨️ Projects",
+    "006 🧠 Tutorials and Guides/React + TypeScript with Yarn.md",
+    "006 🧠 Tutorials and Guides/📄 Attachments/Pasted image 20230905204053.png",
+    "006 🧠 Tutorials and Guides/📄 Attachments",
+    "006 🧠 Tutorials and Guides/Configure prettier in your project.md",
+    "006 🧠 Tutorials and Guides/Create a node JS project.md",
+    "006 🧠 Tutorials and Guides/Create a React App with Vite.md",
+    "006 🧠 Tutorials and Guides/Fix CR error in EsLint(prettier) issue.md",
+    "006 🧠 Tutorials and Guides/How to configure Prettier and EsLint for React Project.md",
+    "006 🧠 Tutorials and Guides/How to configure Vite for React Project.md",
+    "006 🧠 Tutorials and Guides/How to create a Webpack & Tailwind Project.md",
+    "006 🧠 Tutorials and Guides/How to Setup React and Tailwind CSS with Vite.md",
+    "006 🧠 Tutorials and Guides/Oh My Posh.md",
+    "006 🧠 Tutorials and Guides/Install Tailwind Auto-Sort-Classes.md",
+    "005 💡Resources/🎮 Entertainment/🔖Zoro Tv.md",
+    "999 Config.zip",
+    "997 🎨 Excalidraw",
+    "997 ❓Help/📄 Attachments/Pasted image 20230819122936.png",
+    "997 ❓Help",
+    "998 🗃️ Archive/🎨 CSS/FTACapa.png",
+    "998 🗃️ Archive/🎨 CSS",
+    "999 ⚙️ Config/themes/Tokyo Night/theme.css",
+    "Untitled 30.png",
+    "Untitled 28.png",
+    "Untitled 20.png",
+    "Untitled 3 3.png",
+    "Untitled 29.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

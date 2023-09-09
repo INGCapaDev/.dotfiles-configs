@@ -1,0 +1,13 @@
+{
+  "livePreview": true,
+  "showFrontmatter": true,
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "✏️ Input",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./📄 Attachments",
+  "spellcheck": false
+}
