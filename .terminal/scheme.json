@@ -1,0 +1,23 @@
+{
+  "background": "#15161D",
+  "black": "#090B10",
+  "blue": "#82AAFF",
+  "brightBlack": "#5A6374",
+  "brightBlue": "#82AAFF",
+  "brightCyan": "#89DDFF",
+  "brightGreen": "#C3E88D",
+  "brightPurple": "#C792EA",
+  "brightRed": "#F07178",
+  "brightWhite": "#EEFFFF",
+  "brightYellow": "#FFCB6B",
+  "cursorColor": "#FFFFFF",
+  "cyan": "#56B6C2",
+  "foreground": "#EEFFFF",
+  "green": "#C3E88D",
+  "name": "FTACapa",
+  "purple": "#C792EA",
+  "red": "#F07178",
+  "selectionBackground": "#717CB4",
+  "white": "#EEFFFF",
+  "yellow": "#FFCB6B"
+}
