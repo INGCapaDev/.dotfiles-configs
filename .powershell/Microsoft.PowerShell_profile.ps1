@@ -153,7 +153,17 @@ function git_push_origin_dev {
 }
 
 function git_branch {
-    git branch
+    param(
+        [string]$BranchName
+    )
+
+     if ($args.Count -gt 0) {
+        git branch
+        return
+    }
+    
+    git branch $BranchName
+    
 }
 
 function git_ls {

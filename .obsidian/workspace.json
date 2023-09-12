@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "676f5a0ef59ce9b6",
+            "id": "b92fd9a0dfa0aa40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Input/💡 Raw data.md",
+                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#In_Progress",
+                "query": "tag:#Pending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Input/💡 Raw data.md",
+                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Input/💡 Raw data.md",
+                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Input/💡 Raw data.md"
+                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md"
               }
             }
           }
@@ -148,18 +148,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f1689f80eba2d87",
+  "active": "b92fd9a0dfa0aa40",
   "lastOpenFiles": [
-    "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
+    "⌨️ Projects/📖 Thesis/Planteamiento del problema.md",
     "✏️ Input/💡 Raw data.md",
+    "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
+    "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
+    "⌨️ Projects/📖 Thesis/Titulo.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/Avoid put functions direct in useState hook.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/React Performance Tips.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/React.md",
+    "001 ☕Courses/✍️ Study List.md",
+    "001 ☕Courses/🎒 In Progress/✍️ React Performance.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/React Hooks.md",
+    "001 ☕Courses/🎒 In Progress/📄 Attachments/Pasted image 20230911160411.png",
+    "001 ☕Courses/🎒 In Progress/📄 Attachments",
+    "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/React useContext.md",
+    "✏️ Input/Victor Meeting.md",
+    "997 ❓Help/💻 My PC Setup.md",
+    "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
     "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c/Untitled 1.png.md",
     "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c",
-    "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
-    "001 ☕Courses/❌ Pending/✍️ React Performance.md",
-    "997 ❓Help/💻 My PC Setup.md",
-    "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
     "⌨️ Projects/📖 Thesis/Introduccion.md",
-    "⌨️ Projects/📖 Thesis/Titulo.md",
     "⌨️ Projects/⚡Voltz/Voltz reunion con luciano.md",
     "⌨️ Projects/⚡Voltz/Slack.md",
     "997 ❓Help/📄 Attachments/Pasted image 20230907200809.png",
@@ -174,28 +185,17 @@
     "000 🗒️Notes/💡 Productivity/BASB 101 The Campsite Rule For Your Notes.md",
     "⌨️ Projects/⚡Voltz",
     "⌨️ Projects",
-    "006 🧠 Tutorials and Guides/React + TypeScript with Yarn.md",
     "006 🧠 Tutorials and Guides/📄 Attachments/Pasted image 20230905204053.png",
     "006 🧠 Tutorials and Guides/📄 Attachments",
-    "006 🧠 Tutorials and Guides/Configure prettier in your project.md",
-    "006 🧠 Tutorials and Guides/Create a node JS project.md",
-    "006 🧠 Tutorials and Guides/Create a React App with Vite.md",
-    "006 🧠 Tutorials and Guides/Fix CR error in EsLint(prettier) issue.md",
-    "006 🧠 Tutorials and Guides/How to configure Prettier and EsLint for React Project.md",
-    "006 🧠 Tutorials and Guides/How to configure Vite for React Project.md",
-    "006 🧠 Tutorials and Guides/How to create a Webpack & Tailwind Project.md",
-    "006 🧠 Tutorials and Guides/How to Setup React and Tailwind CSS with Vite.md",
     "999 Config.zip",
     "997 🎨 Excalidraw",
     "997 ❓Help/📄 Attachments/Pasted image 20230819122936.png",
     "997 ❓Help",
     "998 🗃️ Archive/🎨 CSS/FTACapa.png",
-    "998 🗃️ Archive/🎨 CSS",
     "Untitled 30.png",
     "Untitled 28.png",
     "Untitled 20.png",
     "Untitled 3 3.png",
-    "Untitled 29.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
