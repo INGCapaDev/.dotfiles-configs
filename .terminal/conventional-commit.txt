@@ -1,0 +1,48 @@
+commit() {
+    declare -a conventional_commits
+
+    conventional_commits=(fix feat refactor build chore ci docs style test "BREAKING CHANGE")
+
+    if [ $# -ne 1 ]; then
+        echo "Error: Incorrect number of arguments. Usage: commit 'message'"
+        return
+    fi
+
+    if [ $# -eq 0 ]; then
+        echo "Error: no message specified. aborting commit..."
+        return
+    fi
+
+    if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+        echo "Error: Not inside a Git repository. Aborting commit..."
+        return
+    fi
+
+    echo -e "\nStaged files:"
+    git diff --name-only --cached | xargs -d '\n' -I {} sh -c 'echo -e "\e[0;32m{}\e[0;m"'
+    echo ""
+    
+     echo -ne "\e[0;34mDo you want to add scope? \e[0;32m(Y) \e[0;31m[Press any key to skip]:\e[0;m "
+    read -n 1 response
+    echo -e "\n"
+
+    while true; do
+        echo "Select commit type: "
+        select message in "${conventional_commits[@]}"; do
+            if [ -n "$message" ]; then
+                break
+            else
+                echo "Invalid option, please select a valid commit type..."
+            fi
+        done
+
+        if [[ $response =~ ^[Yy]$ ]]; then
+            echo -ne "\n\e[0;34mEnter the context: \e[0;m "
+            read -r context
+            git commit -m "$message($context): $@"
+        else
+            git commit -m "$message: $@"
+        fi
+        break
+    done
+}
