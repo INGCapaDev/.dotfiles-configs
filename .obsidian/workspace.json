@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "728df9d7b6958c2e",
+        "id": "5bebb607993bc594",
         "type": "tabs",
         "children": [
           {
-            "id": "1b8b14ab66adee4b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "b92fd9a0dfa0aa40",
+            "id": "ed62cd2c9c892b26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
+                "file": "997 ❓Help/💻 My PC Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
+                "file": "997 ❓Help/💻 My PC Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
+                "file": "997 ❓Help/💻 My PC Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md"
+                "file": "997 ❓Help/💻 My PC Setup.md"
               }
             }
           }
@@ -148,11 +137,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b92fd9a0dfa0aa40",
+  "active": "ed62cd2c9c892b26",
   "lastOpenFiles": [
+    "997 ❓Help/💻 My PC Setup.md",
+    "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
     "⌨️ Projects/📖 Thesis/Planteamiento del problema.md",
     "✏️ Input/💡 Raw data.md",
-    "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
     "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
     "⌨️ Projects/📖 Thesis/Titulo.md",
     "000 🗒️Notes/💻 Development/⌨️ Web Development/Avoid put functions direct in useState hook.md",
@@ -166,7 +156,6 @@
     "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
     "000 🗒️Notes/💻 Development/⌨️ Web Development/React useContext.md",
     "✏️ Input/Victor Meeting.md",
-    "997 ❓Help/💻 My PC Setup.md",
     "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
     "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c/Untitled 1.png.md",
     "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c",
