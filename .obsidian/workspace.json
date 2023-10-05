@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bebb607993bc594",
+        "id": "337c7f003ea3f460",
         "type": "tabs",
         "children": [
           {
-            "id": "ed62cd2c9c892b26",
+            "id": "92913b3272c6f543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md",
+                "file": "✏️ Input/💡 Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Pending",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md",
+                "file": "✏️ Input/💡 Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md",
+                "file": "✏️ Input/💡 Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "997 ❓Help/💻 My PC Setup.md"
+                "file": "✏️ Input/💡 Inbox.md"
+              }
+            }
+          },
+          {
+            "id": "8b309c23930c4319",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -134,52 +144,53 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "ed62cd2c9c892b26",
+  "active": "92913b3272c6f543",
   "lastOpenFiles": [
-    "997 ❓Help/💻 My PC Setup.md",
-    "⌨️ Projects/📖 Thesis/Propuesta de investigacion.md",
-    "⌨️ Projects/📖 Thesis/Planteamiento del problema.md",
-    "✏️ Input/💡 Raw data.md",
-    "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
-    "⌨️ Projects/📖 Thesis/Titulo.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/Avoid put functions direct in useState hook.md",
+    "✏️ Input/Como buscar bitwarden.md",
+    "✏️ Input/💡 Inbox.md",
+    "✏️ Input/My first note.md",
+    "⌨️ Projects/📖 Thesis/Bibliografia Tesina.md",
+    "000 🗒️Notes/☀️ Self-Improvement/How to live an asymmetric life.md",
+    "000 🗒️Notes/☀️ Self-Improvement",
+    "⌨️ Projects/📖 Thesis/Vocabulario Tesina.md",
+    "⌨️ Projects/📖 Thesis/Thesis chapter 2 checklist.md",
+    "⌨️ Projects/📖 Thesis/Guia capitulo 2 tesina (marco teorico).md",
+    "⌨️ Projects/📖 Thesis/Introduccion Tesina.md",
+    "⌨️ Projects/📖 Thesis/Introduccion al capitulo 2 Tesina.md",
+    "⌨️ Projects/📖 Thesis/Objetivos Generales y Especificos Tesina.md",
+    "001 ☕Courses/🍏 Done/✍️ Intermediate React v5.md",
+    "002 🍣 My Anime List/📽️ Watching/👺 Pokemon Horizons.md",
+    "⌨️ Projects/📖 Thesis/Titulo Tesina.md",
+    "002 🍣 My Anime List/📽️ Watching/👺 One Piece.md",
+    "002 🍣 My Anime List/📽️ Watching/👺 Tokyo Revengers Tenjiku-hen.md",
+    "002 🍣 My Anime List/❌ Dropped/👺 Zom 100 Zombie ni Naru made ni Shitai 100.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/React useContext.md",
     "000 🗒️Notes/💻 Development/⌨️ Web Development/React Performance Tips.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/React.md",
-    "001 ☕Courses/✍️ Study List.md",
-    "001 ☕Courses/🎒 In Progress/✍️ React Performance.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/React Hooks.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/Responsive Design.md",
+    "000 🗒️Notes/💻 Development/⌨️ Web Development/Semantic HTML.md",
+    "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
+    "⌨️ Projects/📖 Thesis/Puntos Restantes Tesina.md",
+    "⌨️ Projects/📖 Thesis/Propuesta de investigacion Tesina.md",
+    "⌨️ Projects/📖 Thesis/Limitaciones del estudio Tesina.md",
+    "⌨️ Projects/📖 Thesis/Importancia y Justificacion del Estudio Tesina.md",
+    "005 💡Resources/🤖 Artificial Intelligence/🔎 GPT Prompts",
+    "005 💡Resources/🤖 Artificial Intelligence",
+    "999 🗃️ Archive/999 ⚙️ Settings Backup/settingsObsidian.7z",
+    "999 🗃️ Archive/999 ⚙️ Settings Backup",
+    "999 🗃️ Archive/New folder",
+    "settingsObsidian.7z",
     "001 ☕Courses/🎒 In Progress/📄 Attachments/Pasted image 20230911160411.png",
     "001 ☕Courses/🎒 In Progress/📄 Attachments",
-    "001 ☕Courses/🎒 In Progress/✍️ Aprende JavaScript Midudev.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/React useContext.md",
-    "✏️ Input/Victor Meeting.md",
-    "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
-    "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c/Untitled 1.png.md",
     "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c",
-    "⌨️ Projects/📖 Thesis/Introduccion.md",
-    "⌨️ Projects/⚡Voltz/Voltz reunion con luciano.md",
-    "⌨️ Projects/⚡Voltz/Slack.md",
     "997 ❓Help/📄 Attachments/Pasted image 20230907200809.png",
     "997 ❓Help/📄 Attachments/Pasted image 20230907201557.png",
-    "997 ❓Help/💡 Callouts.md",
     "997 ❓Help/📄 Attachments",
-    "✏️ Input/06-09-2023 Meeting.md",
-    "999 🗃️ Archive/💞 Carta Amorcito.md",
-    "⌨️ Projects/📖 Thesis",
-    "999 🗃️ Archive/🤖 Packet Tracer/Access-list Extended.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/Typescript.md",
-    "000 🗒️Notes/💡 Productivity/BASB 101 The Campsite Rule For Your Notes.md",
-    "⌨️ Projects/⚡Voltz",
-    "⌨️ Projects",
     "006 🧠 Tutorials and Guides/📄 Attachments/Pasted image 20230905204053.png",
-    "006 🧠 Tutorials and Guides/📄 Attachments",
-    "999 Config.zip",
-    "997 🎨 Excalidraw",
     "997 ❓Help/📄 Attachments/Pasted image 20230819122936.png",
-    "997 ❓Help",
     "998 🗃️ Archive/🎨 CSS/FTACapa.png",
     "Untitled 30.png",
     "Untitled 28.png",

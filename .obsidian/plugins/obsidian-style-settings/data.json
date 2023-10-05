@@ -19,7 +19,6 @@
   "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
   "anuppuccin-theme-settings@@anp-stacked-header-width": 40,
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
-  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://w.wallhaven.cc/full/l3/wallhaven-l3o86y.png\")",
   "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.3,
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 2,
   "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.95,
@@ -53,5 +52,6 @@
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false,
   "anuppuccin-theme-settings@@anp-h1-divider": false,
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
-  "anuppuccin-theme-settings@@ctp-custom-base@@dark": "#15161D"
+  "anuppuccin-theme-settings@@ctp-custom-base@@dark": "#15161D",
+  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://w.wallhaven.cc/full/ex/wallhaven-ex21vr.jpg\")"
 }
