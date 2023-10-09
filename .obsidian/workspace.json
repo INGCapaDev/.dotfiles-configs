@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "337c7f003ea3f460",
+        "id": "2a8c73eb465ecba9",
         "type": "tabs",
         "children": [
           {
-            "id": "92913b3272c6f543",
+            "id": "e23b1672ca38d3ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Input/💡 Inbox.md",
+                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Frontend",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Input/💡 Inbox.md",
+                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Input/💡 Inbox.md",
+                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Input/💡 Inbox.md"
+                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md"
               }
             }
           },
@@ -143,59 +143,58 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "92913b3272c6f543",
+  "active": "e23b1672ca38d3ae",
   "lastOpenFiles": [
-    "✏️ Input/Como buscar bitwarden.md",
-    "✏️ Input/💡 Inbox.md",
-    "✏️ Input/My first note.md",
-    "⌨️ Projects/📖 Thesis/Bibliografia Tesina.md",
-    "000 🗒️Notes/☀️ Self-Improvement/How to live an asymmetric life.md",
-    "000 🗒️Notes/☀️ Self-Improvement",
-    "⌨️ Projects/📖 Thesis/Vocabulario Tesina.md",
-    "⌨️ Projects/📖 Thesis/Thesis chapter 2 checklist.md",
-    "⌨️ Projects/📖 Thesis/Guia capitulo 2 tesina (marco teorico).md",
-    "⌨️ Projects/📖 Thesis/Introduccion Tesina.md",
-    "⌨️ Projects/📖 Thesis/Introduccion al capitulo 2 Tesina.md",
-    "⌨️ Projects/📖 Thesis/Objetivos Generales y Especificos Tesina.md",
-    "001 ☕Courses/🍏 Done/✍️ Intermediate React v5.md",
-    "002 🍣 My Anime List/📽️ Watching/👺 Pokemon Horizons.md",
-    "⌨️ Projects/📖 Thesis/Titulo Tesina.md",
-    "002 🍣 My Anime List/📽️ Watching/👺 One Piece.md",
-    "002 🍣 My Anime List/📽️ Watching/👺 Tokyo Revengers Tenjiku-hen.md",
-    "002 🍣 My Anime List/❌ Dropped/👺 Zom 100 Zombie ni Naru made ni Shitai 100.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/React useContext.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/React Performance Tips.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/Responsive Design.md",
-    "000 🗒️Notes/💻 Development/⌨️ Web Development/Semantic HTML.md",
-    "⌨️ Projects/📖 Thesis/Resumen y guia sobre la tesina (ideas para comenzar a investigar).md",
-    "⌨️ Projects/📖 Thesis/Puntos Restantes Tesina.md",
-    "⌨️ Projects/📖 Thesis/Propuesta de investigacion Tesina.md",
-    "⌨️ Projects/📖 Thesis/Limitaciones del estudio Tesina.md",
-    "⌨️ Projects/📖 Thesis/Importancia y Justificacion del Estudio Tesina.md",
-    "005 💡Resources/🤖 Artificial Intelligence/🔎 GPT Prompts",
-    "005 💡Resources/🤖 Artificial Intelligence",
-    "999 🗃️ Archive/999 ⚙️ Settings Backup/settingsObsidian.7z",
-    "999 🗃️ Archive/999 ⚙️ Settings Backup",
-    "999 🗃️ Archive/New folder",
-    "settingsObsidian.7z",
+    "✏️ Input/! 📫 Inboxes/💡Resources.md",
+    "✏️ Input/! 📫 Inboxes/👺 Animes.md",
+    "✏️ Input/! 📫 Inboxes/☕ Courses.md",
+    "996 📄Templates/📖 Books.md",
+    "996 📄Templates/📄 Notes.md",
+    "996 📄Templates/👺 Animes.md",
+    "996 📄Templates/✍️ Courses.md",
+    "✏️ Input/! 📫 Inboxes/📖 Books.md",
+    "004 📖 My Book List/! 📫 Inbox/📖 Book.md",
+    "005 💡Resources/! 📫 Inbox/🔖 Resource.md",
+    "001 ☕Courses/! 📫 Inbox/✍️ Course.md",
+    "✏️ Input/! 📫 Inboxes/📖 Booksasdf.md",
+    "002 🍣 My Anime List/! 📫 Inbox/👺 Anime.md",
+    "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
+    "997 ❓Help/💻 My PC Setup.md",
+    "✏️ Input/! 📫 Inboxes",
+    "! 🏠Home",
+    "997 ❓Help/💡 Callouts.md",
+    "006 🧠 Tutorials and Guides/Configure TypeScript for Express and nodeJS.md",
+    "006 🧠 Tutorials and Guides/Configure prettier in your project.md",
+    "005 💡Resources/! 📫 Inbox",
+    "004 📖 My Book List/! 📫 Inbox",
+    "002 🍣 My Anime List/! 📫 Inbox",
+    "996 📄Templates/🔖 Resources.md",
+    "001 ☕Courses/! 📫 Inbox",
+    "001 ☕Courses/!🔢 Inbox",
+    "001 ☕Courses/A🔢 Inbox",
+    "001 ☕Courses/🔢 Inbox",
+    "001 ☕Courses/🔢 aInbox",
+    "002 🍣 My Anime List/💭 Plan To Watch/null.md",
+    "002 🍣 My Anime List/💭 Plan To Watch/New Anime.md",
+    "002 🍣 My Anime List/💭 Plan To Watch/Untitled.md",
+    "✏️ Input/New Animesdaf.md",
+    "✏️ Input/Untitled 2.md",
+    "002 🍣 My Anime List/💭 Plan To Watch/Untitled 3.md",
+    "✏️ Input/📄 Attachments/file-20231008201718689.png",
     "001 ☕Courses/🎒 In Progress/📄 Attachments/Pasted image 20230911160411.png",
-    "001 ☕Courses/🎒 In Progress/📄 Attachments",
-    "Present simple 'have got' c5dc1c517ed14674848f75b8dcb6e06c",
     "997 ❓Help/📄 Attachments/Pasted image 20230907200809.png",
     "997 ❓Help/📄 Attachments/Pasted image 20230907201557.png",
-    "997 ❓Help/📄 Attachments",
     "006 🧠 Tutorials and Guides/📄 Attachments/Pasted image 20230905204053.png",
     "997 ❓Help/📄 Attachments/Pasted image 20230819122936.png",
     "998 🗃️ Archive/🎨 CSS/FTACapa.png",
     "Untitled 30.png",
     "Untitled 28.png",
     "Untitled 20.png",
-    "Untitled 3 3.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

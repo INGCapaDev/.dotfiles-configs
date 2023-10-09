@@ -3,5 +3,7 @@
   "obsidian-style-settings",
   "callout-manager",
   "obsidian-excalidraw-plugin",
-  "fleeting-notes-obsidian"
+  "fleeting-notes-obsidian",
+  "templater-obsidian",
+  "dataview"
 ]
