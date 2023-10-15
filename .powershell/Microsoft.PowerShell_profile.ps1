@@ -3,6 +3,14 @@
 # Functions
 # -----------------------------------------
 
+function dev {
+    cd C:\Users\FTACapa\VSCodeProjects\
+}
+
+function work {
+    cd C:\Users\FTACapa\WorkProjects\
+}
+
 function commit {
     param (
         [string]$Message

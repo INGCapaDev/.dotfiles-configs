@@ -7,6 +7,11 @@
     "finish_date": "date",
     "Rating": "text",
     "Date": "date",
-    "Related": "multitext"
+    "Related": "multitext",
+    "Birthday": "date",
+    "pubDate": "date",
+    "Twitter": "checkbox",
+    "LinkedIn": "checkbox",
+    "Finished": "checkbox"
   }
 }

@@ -33,6 +33,10 @@
     {
       "folder": "004 📖 My Book List",
       "template": "996 📄Templates/📖 Books.md"
+    },
+    {
+      "folder": "003 🌐 Networking",
+      "template": "996 📄Templates/🌐 Networking.md"
     }
   ],
   "syntax_highlighting": true,

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a8c73eb465ecba9",
+        "id": "a4a11260f1cf0646",
         "type": "tabs",
         "children": [
           {
-            "id": "e23b1672ca38d3ae",
+            "id": "8cf6aca218259f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md",
-                "mode": "source",
+                "file": "! 🏠 Dashboard/! 🏠 Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Frontend",
+                "query": "user stories",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md",
+                "file": "! 🏠 Dashboard/! 🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md",
+                "file": "! 🏠 Dashboard/! 🏠 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Input/! 📫 Inboxes/📖 Books.md"
+                "file": "! 🏠 Dashboard/! 🏠 Home.md"
               }
             }
           },
@@ -140,51 +140,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
       "random-note:Open random note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e23b1672ca38d3ae",
+  "active": "8cf6aca218259f6b",
   "lastOpenFiles": [
-    "✏️ Input/! 📫 Inboxes/💡Resources.md",
-    "✏️ Input/! 📫 Inboxes/👺 Animes.md",
-    "✏️ Input/! 📫 Inboxes/☕ Courses.md",
-    "996 📄Templates/📖 Books.md",
-    "996 📄Templates/📄 Notes.md",
-    "996 📄Templates/👺 Animes.md",
-    "996 📄Templates/✍️ Courses.md",
-    "✏️ Input/! 📫 Inboxes/📖 Books.md",
-    "004 📖 My Book List/! 📫 Inbox/📖 Book.md",
-    "005 💡Resources/! 📫 Inbox/🔖 Resource.md",
-    "001 ☕Courses/! 📫 Inbox/✍️ Course.md",
-    "✏️ Input/! 📫 Inboxes/📖 Booksasdf.md",
-    "002 🍣 My Anime List/! 📫 Inbox/👺 Anime.md",
-    "001 ☕Courses/❌ Pending/✍️ React and TypeScript, v2.md",
-    "997 ❓Help/💻 My PC Setup.md",
-    "✏️ Input/! 📫 Inboxes",
-    "! 🏠Home",
-    "997 ❓Help/💡 Callouts.md",
-    "006 🧠 Tutorials and Guides/Configure TypeScript for Express and nodeJS.md",
-    "006 🧠 Tutorials and Guides/Configure prettier in your project.md",
-    "005 💡Resources/! 📫 Inbox",
-    "004 📖 My Book List/! 📫 Inbox",
-    "002 🍣 My Anime List/! 📫 Inbox",
-    "996 📄Templates/🔖 Resources.md",
-    "001 ☕Courses/! 📫 Inbox",
-    "001 ☕Courses/!🔢 Inbox",
-    "001 ☕Courses/A🔢 Inbox",
-    "001 ☕Courses/🔢 Inbox",
-    "001 ☕Courses/🔢 aInbox",
-    "002 🍣 My Anime List/💭 Plan To Watch/null.md",
-    "002 🍣 My Anime List/💭 Plan To Watch/New Anime.md",
-    "002 🍣 My Anime List/💭 Plan To Watch/Untitled.md",
-    "✏️ Input/New Animesdaf.md",
-    "✏️ Input/Untitled 2.md",
-    "002 🍣 My Anime List/💭 Plan To Watch/Untitled 3.md",
+    "! 🏠 Dashboard/📝 Blog.canvas",
+    "! 🏠 Dashboard/! 🏠 Home.md",
+    "007 📝 Blog/! 📫 Inbox/Nuevo/✅ Nuevo.md",
+    "007 📝 Blog/! 📫 Inbox/Nuevo/Nuevo.md",
+    "! 🏠 Dashboard/📫 Inbox.canvas",
+    "✏️ Input/🚯 Trash/Untitled 24a993090-94f8-4c56-b3a7-68dabc951add.md",
+    "✏️ Input/Untitled 1.md",
+    "007 📝 Blog/! 📫 Inbox/Nuevo",
+    "✏️ Input/🚯 Trash/Untitled 297fea5c5-f1cd-4656-8850-ce3490dcf44c.md",
+    "✏️ Input/Meal prep.md",
+    "✏️ Input/Untitled.md",
+    "✏️ Input/🚯 Trash/Untitled5ba947cf-b963-4304-bb31-a7e64484db21.md",
+    "007 📝 Blog/3 ✅ Posted/Como crear tu primer blog/Como crear tu primer blog.md",
+    "007 📝 Blog/3 ✅ Posted/Como crear tu primer blog/✅ Como crear tu primer blog.md",
+    "007 📝 Blog/3 ✅ Posted/Como crear tu primer blog",
+    "! 🏠 Dashboard/📖 Books.canvas",
+    "! 🏠 Dashboard/🍣 Animes.canvas",
+    "! 🏠 Dashboard/☕ Courses.canvas",
+    "007 📝 Blog/1 🌐 Translating/🌐 Translating.md",
+    "007 📝 Blog/0 💡 Working/💡Working.md",
+    "007 📝 Blog/3 ✅ Posted/✅ Posted.md",
+    "007 📝 Blog/2 🎯 Marketing/🎯Marketing.md",
+    "✏️ Input/📫 Inboxes/📝 Blog.md",
+    "004 📖 My Book List/📗  Complete/✅ Completed.md",
+    "002 🍣 My Anime List/💭 Plan To Watch/💭 Plan to Watch.md",
+    "✏️ Input/hola.md",
+    "✏️ Input/otra clais.md",
+    "✏️ Input/🚯 Trash/Untitled0aafbb03-6db5-45c2-acc3-4dfd7978d957.md",
+    "007 📝 Blog/! 📫 Inbox/mi post/✅ mi post.md",
+    "007 📝 Blog/! 📫 Inbox/otra clais/✅ otra clais.md",
+    "007 📝 Blog/! 📫 Inbox/New Post/✅ New Post.md",
+    "007 📝 Blog/! 📫 Inbox/otra clais/otra clais.md",
+    "007 📝 Blog/! 📫 Inbox/otra clais",
+    "007 📝 Blog/! 📫 Inbox/mi post",
+    "007 📝 Blog/! 📫 Inbox/New Postsafasdf",
+    "007 📝 Blog/! 📫 Inbox/New Postdasf",
+    "007 📝 Blog/! 📫 Inbox/New Postasdf",
+    "007 📝 Blog/! 📫 Inbox/New Postd",
+    "007 📝 Blog/! 📫 Inbox/New Post",
+    "007 📝 Blog/! 📫 Inbox/New Post adg",
+    "✏️ Input/📄 Attachments/file-20231012223002090.png",
+    "✏️ Input/Untitled.canvas",
+    "Untitled.canvas",
     "✏️ Input/📄 Attachments/file-20231008201718689.png",
     "001 ☕Courses/🎒 In Progress/📄 Attachments/Pasted image 20230911160411.png",
     "997 ❓Help/📄 Attachments/Pasted image 20230907200809.png",
@@ -194,8 +204,6 @@
     "998 🗃️ Archive/🎨 CSS/FTACapa.png",
     "Untitled 30.png",
     "Untitled 28.png",
-    "Untitled 20.png",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
