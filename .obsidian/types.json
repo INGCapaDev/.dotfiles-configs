@@ -12,6 +12,7 @@
     "pubDate": "date",
     "Twitter": "checkbox",
     "LinkedIn": "checkbox",
-    "Finished": "checkbox"
+    "Finished": "checkbox",
+    "Platform": "multitext"
   }
 }

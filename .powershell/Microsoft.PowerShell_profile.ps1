@@ -3,6 +3,10 @@
 # Functions
 # -----------------------------------------
 
+function blog {
+    cd C:\my-blog\
+}
+
 function dev {
     cd C:\Users\FTACapa\VSCodeProjects\
 }
