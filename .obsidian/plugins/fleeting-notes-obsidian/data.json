@@ -4,7 +4,7 @@
   "attachments_folder": "✏️ Input/📄 Attachments",
   "note_template": "---\n# Mandatory fields\nid: \"${id}\"\n# Optional fields\nDate: \"${created_date}\"\nSource: \"${source}\"\ntags: \"${tags}\"\n---\n${content}",
   "sync_on_startup": true,
-  "last_sync_time": "2023-10-15T05:12:50.087Z",
+  "last_sync_time": "2023-11-25T18:19:37.004Z",
   "sync_type": "one-way-delete",
   "sync_obsidian_links": false,
   "sync_obsidian_links_title": "Links from Obsidian",
@@ -13,7 +13,7 @@
   "password": "notessync",
   "supabaseId": "a652190d-ef94-493f-a291-3deb06f61c79",
   "encryption_key": "",
-  "sync_interval": 122,
+  "sync_interval": 168,
   "date_format": "YYYY-MM-DD",
   "title_template": "${title}"
 }
