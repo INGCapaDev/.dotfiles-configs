@@ -8,11 +8,14 @@ function blog {
 }
 
 function dev {
-    cd C:\Users\FTACapa\VSCodeProjects\
+    # cd C:\Users\FTACapa\VSCodeProjects\
+    cd D:\VSCodeProjects\
+
 }
 
 function work {
-    cd C:\Users\FTACapa\WorkProjects\
+    # cd C:\Users\FTACapa\WorkProjects\
+    cd D:\WorkProjects\
 }
 
 function commit {
